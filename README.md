@@ -34,6 +34,7 @@ This is a full-stack web application built with **Express.js** on the backend an
 
 ## Prerequisites
 
+
 Make sure you have the following installed on your machine:
 
 - **Node.js** (v14 or higher)
